@@ -1,0 +1,3 @@
+C:/Users/JPUra/Desktop/programowanie/lab-1-Janolinni/build/CMakeFiles/zal.dir
+C:/Users/JPUra/Desktop/programowanie/lab-1-Janolinni/build/CMakeFiles/edit_cache.dir
+C:/Users/JPUra/Desktop/programowanie/lab-1-Janolinni/build/CMakeFiles/rebuild_cache.dir
