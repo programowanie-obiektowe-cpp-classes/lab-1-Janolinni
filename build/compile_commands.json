@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/JPUra/Desktop/programowanie/lab-1-Janolinni/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/zal.dir/includes_CXX.rsp -g -o CMakeFiles\\zal.dir\\test.cpp.obj -c C:\\Users\\JPUra\\Desktop\\programowanie\\lab-1-Janolinni\\test.cpp",
+  "file": "C:/Users/JPUra/Desktop/programowanie/lab-1-Janolinni/test.cpp",
+  "output": "CMakeFiles/zal.dir/test.cpp.obj"
+}
+]
